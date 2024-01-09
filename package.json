@@ -11,6 +11,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^3.1.0"
   },
+  "homepage": "https://dany260519.github.io/orange-space-pancake",
   "overrides": {
     "@svgr/webpack": "^8.0.1",
     "@adobe/css-tools": "^4.3.1",
